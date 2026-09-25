@@ -1,5 +1,5 @@
 {
   "dependencies": [],
   "functions": ["httpsStatusCodeChecker 1.0"],
-  "includes": []
+  "includes": ["functions/utils"]
 }
