@@ -1,0 +1,15 @@
+{
+  "name": "app-functions",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "vitest run",
+    "publish": "bb blocks publish"
+  },
+  "dependencies": {
+    "@betty-blocks/cli": "26.0"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  },
+  "private": "true"
+}

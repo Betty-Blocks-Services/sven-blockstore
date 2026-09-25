@@ -1,0 +1,5 @@
+{
+  "dependencies": [],
+  "functions": ["httpsStatusCodeChecker 1.0"],
+  "includes": []
+}
